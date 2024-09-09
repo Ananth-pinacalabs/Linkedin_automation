@@ -1,0 +1,7 @@
+.conda/
+.venv/
+pymupdf_images/
+pymupdf4LLMouputs/
+Data/
+figures/
+

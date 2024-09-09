@@ -1,0 +1,7 @@
+numpy
+pandas
+pyPDF
+unstructured[local-inference]
+langchain
+langchain_community
+langchain_core
